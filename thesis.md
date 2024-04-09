@@ -3,7 +3,7 @@
 ## Intro
 
 ## Experiment
-I did a poll on carpentreologoiy in different domains.
+I did a poll on carpentreology in different domains.
 
 
 ## Analysis
